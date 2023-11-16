@@ -1,8 +1,17 @@
-# React + Vite
+# Dashboard
+A brief description of your React.js project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+User-centric React dashboard showcasing data for seamless interaction and management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Guide on how to install the project locally.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+
+## Hosted Link 
+   https://dashboardsnew.netlify.app/
