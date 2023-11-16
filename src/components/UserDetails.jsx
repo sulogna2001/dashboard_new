@@ -1,4 +1,4 @@
-//page for user details addition
+//page for user details view
 import { useEffect, useState } from "react";
 
 import data from "../../data";
