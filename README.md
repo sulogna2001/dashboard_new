@@ -11,7 +11,13 @@ Guide on how to install the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project.git
-
+   https://github.com/sulogna2001/dashboard_new.git
+2. Install command
+   ```bash
+   npm install
+3. Run command
+   ```bash
+   npm run dev
+   
 ## Hosted Link 
    https://dashboardsnew.netlify.app/
