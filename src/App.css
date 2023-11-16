@@ -1,0 +1,25 @@
+.app {
+  font-family: Outfit, sans-serif;
+}
+
+.tabs {
+  display: flex;
+  margin: auto;
+  width: 20%;
+}
+
+.tabs button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  border: none;
+  cursor: pointer;
+  background-color: #eee;
+}
+
+.tabs button.active {
+  background-color: indigo;
+}
+
+.tab-content {
+  margin-top: 20px;
+}
